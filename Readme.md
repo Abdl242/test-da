@@ -1,2 +1,2 @@
 # My first repo
-  Trainging
+  Training
